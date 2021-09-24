@@ -1,18 +1,24 @@
-## Getting Started
+### Praktikum PBO 4
+This is the fourth repository from PBO Practice in State Polytechnic of Malang. It is coded with Java Programming language. implements program from class diagram in teory PBO class .
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- 📝 Pdf filename :[2C_24_Yudas Malabi.pdf](https://github.com/Yudas1337/Praktikum_PBO_4/blob/master/2C_24_Yudas%20Malabi.pdf)
 
-## Folder Structure
+### Main Topic : Black Clover Serial Anime
+### Class Structure :
+<ul>
+  <li>Character : Representing character in the anime (ex: Asta, Yuno)</li>
+  <li>Kingdom   : Representing kingdom in the anime (Spade, Heart, Clover, Diamond)</li>
+  <li>Magic     : Representing magic skills in the anime</li>
+  <li>Parent    : Representing parents from the character in the anime</li>
+  <li>Squad     : Representing squad in each kingdom in the anime</li>
+  <li>Main      : Run the java program from each declared class</li>
+  
+</ul>
 
-The workspace contains two folders by default, where:
+### Technologies :
+<ul>
+<li>Java Object Oriented Programming</li>
+<li>IDE : Visual Studio Code with java plugins for compiler</li>
+</ul>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Credits : Yudas Malabi 😄✌️
