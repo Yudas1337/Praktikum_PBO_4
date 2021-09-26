@@ -9,6 +9,11 @@ public class Processor {
 
     }
 
+    Processor(String merk, double cache){
+        this.merk = merk;
+        this.cache = cache;
+    }
+
     public void setMerk(String merk) {
         this.merk = merk;
     }
